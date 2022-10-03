@@ -1,5 +1,5 @@
 
-
+# Крестики нолики.
 
 from krestil_nolik import ResultKN
 from os import system
